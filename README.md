@@ -1,11 +1,11 @@
 simple.buttons
 ==============
 
-A very simple, easy-to-use button library
+A very simple, easy-to-use CSS button library
 
 ![Example of Buttons](http://i61.tinypic.com/255kge9.png "Example of simple.buttons")
 
-Example
+example
 ============
 `<a href="#" class="blue-small-rounded">Submit</a>`
 
