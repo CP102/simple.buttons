@@ -13,6 +13,14 @@ example
 
 Six colors: blue, yellow, red, grey, green, and pink
 
+
 Three sizes: small, medium, and large
 
+
 Two shapes: rounded or regular(rectangular)
+
+
+If you are using Bower:
+
+
+`bower install simple.buttons`
