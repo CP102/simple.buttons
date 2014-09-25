@@ -1,5 +1,5 @@
 {
-  name: 'pasteup-buttons',
+  name: 'simple.buttons',
   description: 'Simple yet useful CSS library of buttons',
   version: '0.1.0',
   main: [
