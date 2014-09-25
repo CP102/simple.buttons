@@ -1,26 +1,26 @@
 {
-  name: 'simple.buttons',
-  description: 'Simple yet useful CSS library of buttons',
-  version: '0.1.0',
-  main: [
-    'simplebuttons.css',
-    'simplebuttons.min.css'
+  "name": "simple.buttons",
+  "description": "Simple yet useful CSS library of buttons",
+  "version": "0.1.0",
+  "main": [
+    "simplebuttons.css",
+    "simplebuttons.min.css"
   ],
-    ignore: [
-    'LICENSE',
-    'index.html'
+    "ignore": [
+    "LICENSE",
+    "index.html"
   ],
-    keywords: [
-    'buttons',
-    'stylesheet',
-    'simplebuttons',
-    'simple buttons',
-    'simple.buttons'
+    "keywords": [
+    "buttons",
+    "stylesheet",
+    "simplebuttons",
+    "simple buttons",
+    "simple.buttons"
   ],
-   license: 'MIT',
-  homepage: 'https://github.com/CP102/simple.buttons',
-  repository: {
-    type: 'git',
-    url: 'git://github.com/CP102/simple.buttons.git'
+   "license": "MIT",
+  "homepage": "https://github.com/CP102/simple.buttons",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CP102/simple.buttons.git"
   }
 }
