@@ -3,7 +3,7 @@ simple.buttons
 
 A very simple, easy-to-use CSS button library
 
-![Example of Buttons](http://i61.tinypic.com/255kge9.png "Example of simple.buttons")
+![Example of Simple.Buttons](http://i57.tinypic.com/2q9dfs3.png "Example of simple.buttons")
 
 example
 ============
@@ -11,7 +11,7 @@ example
 
 ![Example of small blue button](http://i58.tinypic.com/30cbx5d.png")
 
-Six colors: blue, yellow, red, grey, green, and pink
+Six colors: blue, yellow, red, grey, green, pink, and purple
 
 
 Three sizes: small, medium, and large
