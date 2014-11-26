@@ -1,4 +1,37 @@
 /*Regular Buttons*/
+
+.purple-small-regular {
+	-moz-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	box-shadow:inset 0px 1px 0px 0px #8904B1;
+	background-color:#8904B1;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	border:1px solid #8904B1;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+	font-weight:500;
+	padding:7px 14px;
+	text-decoration:none;
+}
+.purple-small-regular:hover {
+    -moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	background-color:#6A0888;
+    border:1px solid #6A0888;
+}
+.purple-small-regular:active {
+	position:relative;
+	top:1px;
+}
+
+
+
 .blue-small-regular {
 	-moz-box-shadow:inset 0px 1px 0px 0px #70b0c7;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #70b0c7;
@@ -12,8 +45,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -39,8 +72,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -65,8 +98,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -92,8 +125,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -119,8 +152,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -146,8 +179,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -158,8 +191,40 @@
 	position:relative;
 	top:1px;
 }
-/*This is Medium Buttons*/
+
+
+
+/*These are Medium Regular Buttons*/
  
+.purple-medium-regular {
+	-moz-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	box-shadow:inset 0px 1px 0px 0px #8904B1;
+	background-color:#8904B1;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	border:1px solid #8904B1;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:15px;
+	font-weight:500;
+	padding:8px 16px;
+	text-decoration:none;
+}
+.purple-medium-regular:hover {
+    -moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	background-color:#6A0888;
+    border:1px solid #6A0888;
+}
+.purple-medium-regular:active {
+	position:relative;
+	top:1px;
+}
 
 .blue-medium-regular {
 	-moz-box-shadow:inset 0px 1px 0px 0px #70b0c7;
@@ -175,7 +240,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -202,7 +267,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -228,7 +293,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -255,7 +320,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -282,7 +347,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -309,7 +374,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -322,6 +387,35 @@
 }
  /*These are large buttons*/
  
+.purple-large-regular {
+	-moz-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	box-shadow:inset 0px 1px 0px 0px #8904B1;
+	background-color:#8904B1;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	border:1px solid #8904B1;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:15px;
+	font-weight:500;
+	padding:11px 22px;
+	text-decoration:none;
+}
+.purple-large-regular:hover {
+    -moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	background-color:#6A0888;
+    border:1px solid #6A0888;
+}
+.purple-large-regular:active {
+	position:relative;
+	top:1px;
+}
 
 .blue-large-regular {
 	-moz-box-shadow:inset 0px 1px 0px 0px #70b0c7;
@@ -337,7 +431,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -364,7 +458,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -390,7 +484,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -417,7 +511,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -444,7 +538,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -471,7 +565,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -483,7 +577,34 @@
 	top:1px;
 }
 
-/*Rounded Buttons*/
+/* Small Rounded Buttons*/
+
+.purple-small-rounded {
+	-moz-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	box-shadow:inset 0px 1px 0px 0px #8904B1;
+	background-color:#8904B1;
+	-moz-border-radius:30px;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	border:1px solid #8904B1;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+	font-weight:500;
+	padding:7px 14px;
+	text-decoration:none;
+}
+.purple-small-rounded:hover {
+	background-color:#6A0888;
+}
+.purple-small-rounded:active {
+	position:relative;
+	top:1px;
+}
+
 
 .blue-small-rounded {
 	-moz-box-shadow:inset 0px 1px 0px 0px #70b0c7;
@@ -498,8 +619,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -525,8 +646,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -551,8 +672,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -578,8 +699,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -605,8 +726,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -632,8 +753,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:15px;
-	font-weight:bold;
+	font-size:14px;
+	font-weight:500;
 	padding:7px 14px;
 	text-decoration:none;
 }
@@ -645,7 +766,32 @@
 	top:1px;
 }
 /*This is Medium Buttons*/
- 
+
+.purple-medium-rounded {
+	-moz-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	box-shadow:inset 0px 1px 0px 0px #8904B1;
+	background-color:#8904B1;
+	-moz-border-radius:30px;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	border:1px solid #8904B1;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:15px;
+	font-weight:500;
+	padding:9px 18px;
+	text-decoration:none;
+}
+.purple-medium-rounded:hover {
+	background-color:#6A0888;
+}
+.purple-medium-rounded:active {
+	position:relative;
+	top:1px;
+}
 
 .blue-medium-rounded {
 	-moz-box-shadow:inset 0px 1px 0px 0px #70b0c7;
@@ -661,7 +807,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -688,7 +834,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -714,7 +860,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -741,7 +887,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -768,7 +914,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -795,7 +941,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:9px 18px;
 	text-decoration:none;
 }
@@ -808,6 +954,31 @@
 }
  /*These are large buttons*/
  
+.purple-large-rounded {
+	-moz-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #8904B1;
+	box-shadow:inset 0px 1px 0px 0px #8904B1;
+	background-color:#8904B1;
+	-moz-border-radius:30px;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	border:1px solid #8904B1;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:15px;
+	font-weight:500;
+	padding:11px 22px;
+	text-decoration:none;
+}
+.purple-large-rounded:hover {
+	background-color:#6A0888;
+}
+.purple-large-rounded:active {
+	position:relative;
+	top:1px;
+}
 
 .blue-large-rounded {
 	-moz-box-shadow:inset 0px 1px 0px 0px #70b0c7;
@@ -823,7 +994,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -850,7 +1021,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -876,7 +1047,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -903,7 +1074,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -930,7 +1101,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
@@ -957,7 +1128,7 @@
 	color:#ffffff;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:500;
 	padding:11px 22px;
 	text-decoration:none;
 }
